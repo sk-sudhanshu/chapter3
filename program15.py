@@ -24,5 +24,3 @@ if (copy_list1 == list2):  # Checking if the reversed copy of list1 is equal to 
     print("The lists are palindromes.")
 else:
     print("The lists are not palindromes.")
-    
-    
